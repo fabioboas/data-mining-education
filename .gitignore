@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -169,3 +170,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+=======
+chave.py
+>>>>>>> 3696cf0 (Primeiro projeto de Data Mining | First Data Mining Project | Erstes Data Mining Projekt)
