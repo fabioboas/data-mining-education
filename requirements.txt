@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 beautifulsoup4
 selenium
 cloudscraper
 pandas
 logging
+=======
+beautifulsoup4
+selenium
+cloudscraper
+pandas
+logging
+>>>>>>> 0602441 (Salvando mudanças locais antes do pull)
